@@ -1,4 +1,4 @@
-## Some Experience or Solutions😁
+## Some Experience or Solutions😁 :sunny:
 - 怎么把动态盘变成基本盘？
 
 网上搜了很多方法，现在用自己的经验总结一个比较靠谱的！网上下载`Disk Genius`，是一个用于管理磁盘的工具，下载地址很多，自己找。    
